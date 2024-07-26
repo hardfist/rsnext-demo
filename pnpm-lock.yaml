@@ -9,8 +9,8 @@ importers:
   .:
     dependencies:
       next:
-        specifier: npm:rsnext@15.0.0-canary.79
-        version: rsnext@15.0.0-canary.79(react-dom@19.0.0-rc-f994737d14-20240522(react@19.0.0-rc-f994737d14-20240522))(react@19.0.0-rc-f994737d14-20240522)
+        specifier: npm:rsnext@15.0.0-canary.77
+        version: rsnext@15.0.0-canary.77(react-dom@19.0.0-rc-f994737d14-20240522(react@19.0.0-rc-f994737d14-20240522))(react@19.0.0-rc-f994737d14-20240522)
       react:
         specifier: 19.0.0-rc-f994737d14-20240522
         version: 19.0.0-rc-f994737d14-20240522
@@ -305,8 +305,8 @@ packages:
     resolution: {integrity: sha512-SeU2v5Xy6FotVhKz0pMS2gvYP7HlkF0qgTskj3JzA1vlxcb3dQjxlm9t0ZlJqcgoyI3VFAw7bomuDMdgy1nBuw==}
     engines: {node: '>=0.10.0'}
 
-  rsnext@15.0.0-canary.79:
-    resolution: {integrity: sha512-0mmO4CtzxnMqXdgQkVQuM7tnEPkdw2GsG+mosTT6kjvM1mgfFNq0z6XCjjlakekfoG82HQn+zgd2uco2L4+tUw==}
+  rsnext@15.0.0-canary.77:
+    resolution: {integrity: sha512-hd8EqF2b6t9pJlYSuRKELsSLU2grfVwL69HsGKc4InBQMz1Pr5CbY9xxOopKG/pA72bN+hnK/zYTU01qK7T1hg==}
     engines: {node: '>=18.18.0'}
     hasBin: true
     peerDependencies:
@@ -615,7 +615,7 @@ snapshots:
 
   react@19.0.0-rc-f994737d14-20240522: {}
 
-  rsnext@15.0.0-canary.79(react-dom@19.0.0-rc-f994737d14-20240522(react@19.0.0-rc-f994737d14-20240522))(react@19.0.0-rc-f994737d14-20240522):
+  rsnext@15.0.0-canary.77(react-dom@19.0.0-rc-f994737d14-20240522(react@19.0.0-rc-f994737d14-20240522))(react@19.0.0-rc-f994737d14-20240522):
     dependencies:
       '@next/env': 15.0.0-canary.56
       '@rspack/core': 1.0.0-alpha.5(@swc/helpers@0.5.11)
